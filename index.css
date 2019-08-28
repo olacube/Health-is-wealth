@@ -1,0 +1,38 @@
+body{
+background:#FFFcab; margin-left:1.5cm;}
+#Logo{
+ float:left; float:bottom; width:200px}
+#Logo2{
+float:left
+}
+
+#p1 {
+background-color:green; height:54.5cm; width:20px; float:left
+}
+#p2 {
+background-color:#fffcab; height:54.5cm; width:20px; float:left
+}
+#p3 {
+background-color:green; height:54.5cm; width:20px; float:left
+}
+h1{
+color:white; background-color:green; font-family:Arial black; text-align:center;
+font-size:1cm; display:block; width:1050px; border: outset fffccc;  margin-bottom:1px 
+}
+h1:hover{
+	background-color:red; color:purple
+}
+h3{
+font-size:0.7cm
+}
+h4{
+font-family:Time; font-size:14px; color:#FF0000;
+}
+
+section{
+ margin-left:5cm; margin-right:4cm; background:white; border:none; padding:1cm; height:50cm; 
+width:800px
+ }
+footer{
+ color:black; text-align:center; font-size:30
+ }
